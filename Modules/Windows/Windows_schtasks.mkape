@@ -14,7 +14,7 @@ Processors:
         Executable: C:\Windows\System32\schtasks.exe
         CommandLine: /Query /XML
         ExportFormat: xml
-        ExportFile: scheduled_tasks.csv
+        ExportFile: scheduled_tasks.xml
 
 # Documentation
 # https://docs.microsoft.com/en-us/windows/win32/taskschd/schtasks
